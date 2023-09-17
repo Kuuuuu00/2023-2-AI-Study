@@ -13,7 +13,7 @@ Regularization(조직화..?)
 
 generalization gap을 줄이는 방향으로..!
 
-합성곱 신경망
+CNN = 합성곱 신경망
 
 RGB 이미지 데이터는 height width depth 3개의 채널로 되어있다.
 CNN RGB 계산에 대한 내용이 있는데, 이론적 내용이라 계산을 어떻게 하는지는 아직 잘 모르겠음.
